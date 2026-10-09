@@ -1,0 +1,7 @@
+[gd_resource type="AudioStreamPlaylist" format=3 uid="uid://b0l3ejcnwgcit"]
+
+[ext_resource type="AudioStream" uid="uid://clhoh235db1yw" path="res://Music/menuMusic.ogg" id="1_cnwjx"]
+
+[resource]
+stream_count = 1
+stream_0 = ExtResource("1_cnwjx")
