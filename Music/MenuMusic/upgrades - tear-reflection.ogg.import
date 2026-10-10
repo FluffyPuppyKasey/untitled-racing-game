@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://u2nkxdveafpf"
+path="res://.godot/imported/upgrades - tear-reflection.ogg-0557b03e9b9a8466bb731cebb9e9079b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/MenuMusic/upgrades - tear-reflection.ogg"
+dest_files=["res://.godot/imported/upgrades - tear-reflection.ogg-0557b03e9b9a8466bb731cebb9e9079b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://g5iice0od20j"
+path="res://.godot/imported/Virtual Self - a.i.ngel (Become God).ogg-dc6f1ffcc57e2eb3059e4ff98b2c3cef.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/MenuMusic/Virtual Self - a.i.ngel (Become God).ogg"
+dest_files=["res://.godot/imported/Virtual Self - a.i.ngel (Become God).ogg-dc6f1ffcc57e2eb3059e4ff98b2c3cef.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cv6ulyqs4iqai"
+path="res://.godot/imported/Virtual Self - EON BREAK.ogg-741fb619294abcbab6fd89c4e91f1a83.oggvorbisstr"
+
+[deps]
+
+source_file="res://Music/MenuMusic/Virtual Self - EON BREAK.ogg"
+dest_files=["res://.godot/imported/Virtual Self - EON BREAK.ogg-741fb619294abcbab6fd89c4e91f1a83.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
